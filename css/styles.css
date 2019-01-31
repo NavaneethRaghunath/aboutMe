@@ -1,0 +1,84 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+hr{
+  border-style: dotted;
+  border-color: grey;
+  border-top-style: none;
+  width: 5%;
+  border-width: 5px;
+
+
+
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  margin-top: 50px;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Indie Flower', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.top {
+  background-color: #E4F9F5;
+}
+
+.topimg{
+  margin-top: 40px;
+  margin-left: 500px;
+  position: relative;
+}
+
+.midimg {
+  position: absolute;
+  margin-right: 500px;
+}
+
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  height: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillimg1{
+  width: 25%;
+  float: left;
+  margin: 100px auto;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+
+.skillimg2{
+  width: 25%;
+  float: right;
+  margin-bottom: 50px;
+}
+
+.contact-me{
+  margin: 30px auto;
+  
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
